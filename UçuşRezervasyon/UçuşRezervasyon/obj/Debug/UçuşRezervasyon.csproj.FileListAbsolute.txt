@@ -1,0 +1,10 @@
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\UçuşRezervasyon\UçuşRezervasyon\bin\Debug\UçuşRezervasyon.exe.config
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\UçuşRezervasyon\UçuşRezervasyon\bin\Debug\UçuşRezervasyon.exe
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\UçuşRezervasyon\UçuşRezervasyon\bin\Debug\UçuşRezervasyon.pdb
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\UçuşRezervasyon\UçuşRezervasyon\obj\Debug\UçuşRezervasyon.csproj.AssemblyReference.cache
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\UçuşRezervasyon\UçuşRezervasyon\obj\Debug\UçuşRezervasyon.Form1.resources
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\UçuşRezervasyon\UçuşRezervasyon\obj\Debug\UçuşRezervasyon.Properties.Resources.resources
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\UçuşRezervasyon\UçuşRezervasyon\obj\Debug\UçuşRezervasyon.csproj.GenerateResource.cache
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\UçuşRezervasyon\UçuşRezervasyon\obj\Debug\UçuşRezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\UçuşRezervasyon\UçuşRezervasyon\obj\Debug\UçuşRezervasyon.exe
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\UçuşRezervasyon\UçuşRezervasyon\obj\Debug\UçuşRezervasyon.pdb
